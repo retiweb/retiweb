@@ -6,7 +6,7 @@
 # Hi there, I'm Rian 👋
 
 I'm a **Web Developer** who loves turning ideas into interactive, responsive, and efficient web applications.  
-I specialize in building modern web solutions using **Laravel**, **Vue.js**, and **SQL databases**.
+I specialize in building modern web solutions using **Laravel**, and **SQL databases**.
 
 - 🚀 Currently exploring full-stack development with Laravel + Vue.js  
 - 🧠 Always learning and improving my clean code practices  
