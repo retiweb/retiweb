@@ -17,7 +17,6 @@ I specialize in building modern web solutions using **Laravel**, **Vue.js**, and
 
 ## 🧰 Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -34,8 +33,7 @@ I specialize in building modern web solutions using **Laravel**, **Vue.js**, and
 ---
 
 ## 🚀 Current Learning Path
-- 🔹 Building REST APIs with **Laravel**  
-- 🔹 Beginner **Vue 3 + Vuex** for state management  
+- 🔹 Building REST APIs with **Laravel**   
 - 🔹 Optimizing **SQL queries & indexing**  
 - 🔹 Exploring **NextJs** for development front end website  
 
